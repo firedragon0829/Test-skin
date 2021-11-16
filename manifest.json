@@ -1,0 +1,24 @@
+{
+  "manifestRevision": "1",
+  "guid": "skin_skin",
+  "name": "Test",
+  "version": "1.1.1",
+  "description": "This is a test mod",
+  "assetMappings": [
+    {
+      "type": "Texture",
+      "target": "h3vr_data\\streamingassets\\assets_resources_objectids_weaponry_pistols\\m1911::Colt1911_Classic_BaseColor:",
+      "path": "base color.png"
+    },
+    {
+      "type": "Texture",
+      "target": "h3vr_data\\streamingassets\\assets_resources_objectids_weaponry_pistols\\m1911::Colt1911_Classic_BaseColor:_SpecTex",
+      "path": "alloy.png"
+    },
+    {
+      "type": "Texture",
+      "target": "h3vr_data\\streamingassets\\assets_resources_objectids_weaponry_pistols\\m1911::Colt1911_Classic_BaseColor:_BumpMap",
+      "path": "normal.png"
+    }
+  ]
+}
